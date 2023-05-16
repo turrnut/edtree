@@ -1,1 +1,1 @@
-# edtree
+![EdTree Logo](edtree.png "EdTree Logo")
