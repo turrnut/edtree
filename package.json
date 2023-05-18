@@ -4,9 +4,13 @@
   "description": "A website lol",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "echo hi"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "turrnut",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1"
+  }
 }

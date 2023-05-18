@@ -1,1 +1,1 @@
-![EdTree Logo](edtree.png "EdTree Logo")
+![EdTree Logo](public/edtree.png "EdTree Logo")
